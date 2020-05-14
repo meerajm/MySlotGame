@@ -1,0 +1,16 @@
+C:\Users\abrah\source\repos\BLL\BLL\bin\Debug\netstandard2.0\BLL.deps.json
+C:\Users\abrah\source\repos\BLL\BLL\bin\Debug\netstandard2.0\BLL.dll
+C:\Users\abrah\source\repos\BLL\BLL\bin\Debug\netstandard2.0\BLL.pdb
+C:\Users\abrah\source\repos\BLL\BLL\obj\Debug\netstandard2.0\BLL.csprojAssemblyReference.cache
+C:\Users\abrah\source\repos\BLL\BLL\obj\Debug\netstandard2.0\BLL.AssemblyInfoInputs.cache
+C:\Users\abrah\source\repos\BLL\BLL\obj\Debug\netstandard2.0\BLL.AssemblyInfo.cs
+C:\Users\abrah\source\repos\BLL\BLL\obj\Debug\netstandard2.0\BLL.dll
+C:\Users\abrah\source\repos\BLL\BLL\obj\Debug\netstandard2.0\BLL.pdb
+F:\Meera\MySlotGame\BLL\BLL\bin\Debug\netstandard2.0\BLL.deps.json
+F:\Meera\MySlotGame\BLL\BLL\bin\Debug\netstandard2.0\BLL.dll
+F:\Meera\MySlotGame\BLL\BLL\bin\Debug\netstandard2.0\BLL.pdb
+F:\Meera\MySlotGame\BLL\BLL\obj\Debug\netstandard2.0\BLL.csprojAssemblyReference.cache
+F:\Meera\MySlotGame\BLL\BLL\obj\Debug\netstandard2.0\BLL.AssemblyInfoInputs.cache
+F:\Meera\MySlotGame\BLL\BLL\obj\Debug\netstandard2.0\BLL.AssemblyInfo.cs
+F:\Meera\MySlotGame\BLL\BLL\obj\Debug\netstandard2.0\BLL.dll
+F:\Meera\MySlotGame\BLL\BLL\obj\Debug\netstandard2.0\BLL.pdb
